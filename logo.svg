@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Watchdog logo">
+  <!-- Watchdog head in profile, one ear up, lantern swinging from the collar tag -->
+  <path d="M11 50C10 38 12 28 18 22L15 3 30 15C36 14 41 16 44 19L47 21 59 27.5C61.5 29 61 32.5 58.5 33.5L51 35.5 49.5 39C48 42 44 45.5 40 47L37 50Z" fill="#F4F1EA"/>
+  <path d="M17.6 20 16.7 9 23.6 15.2Z" fill="#D9480F"/>
+  <path d="M58 33.4 45 36" stroke="#0B0B0C" stroke-width="1" stroke-linecap="round" fill="none"/>
+  <path d="M36.4 21.6 43.4 23.8" stroke="#0B0B0C" stroke-width="1.7" stroke-linecap="round"/>
+  <circle cx="40.6" cy="26" r="2.4" fill="#0B0B0C"/>
+  <ellipse cx="58.7" cy="30" rx="2.5" ry="2.2" fill="#0B0B0C"/>
+  <path d="M10.3 46H39.4L40.6 53H11Z" fill="#D9480F"/>
+  <circle cx="25" cy="55.8" r="2.2" fill="none" stroke="#FF7A1A" stroke-width="1.3"/>
+  <path d="M25 58V59.4" stroke="#FF7A1A" stroke-width="1.3"/>
+  <rect x="22" y="59.4" width="6" height="4.2" rx="1.2" fill="#FF7A1A"/>
+  <rect x="23.7" y="60.3" width="2.6" height="2.2" rx=".9" fill="#FFE2B0"/>
+</svg>
